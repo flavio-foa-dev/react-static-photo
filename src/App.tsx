@@ -1,10 +1,11 @@
 import './App.css'
+import Home from './pages/home'
 
 function App() {
 
   return (
     <>
-      Vite and React logos to learn more
+      <Home/>
     </>
   )
 }
