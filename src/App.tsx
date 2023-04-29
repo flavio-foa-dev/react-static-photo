@@ -1,11 +1,12 @@
-import './styles/styles-globais.scss'
-import Home from './pages/home'
+import './styles/estilosGlobais.scss'
+import PaginaInicial from './pages/PaginaInicial/'
+
 
 function App() {
 
   return (
     <>
-      <Home/>
+      <PaginaInicial/>
     </>
   )
 }
